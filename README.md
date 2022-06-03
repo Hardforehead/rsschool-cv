@@ -1,1 +1,1 @@
-https://github.com/Hardforehead/rsschool-cv/blob/gh-pages/cv.md
+https://hardforehead.github.io/rsschool-cv/
