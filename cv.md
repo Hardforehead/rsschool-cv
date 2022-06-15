@@ -32,6 +32,6 @@ I thought that it would not be superfluous if I also mastered the frontend, whic
 
 # My Contact Info:
 
-* **Phone:** +7(960)4138460
+* **Telegram:** [Hardforehead](https://t.me/Hardforehead)
 * **E-mail:** [kochegar005@gmail.com](kochegar005@gmail.com)
 * **GitHub:** [Hardforehead](https://github.com/Hardforehead)
