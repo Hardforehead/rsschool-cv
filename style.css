@@ -137,6 +137,7 @@
   .rss-link{
     width: 120px;
     height: 45px;
+    font-size: 0px;
     background-image: url(./assets/svg/rss.svg);
     background-size: contain;
     background-repeat: no-repeat;
@@ -144,6 +145,7 @@
   .github-link {
     width: 80px;
     height: 66px;
+    font-size: 0px;
     justify-content: center;
     background-image: url(./assets/img/Octocat.png);
     background-size: contain;
